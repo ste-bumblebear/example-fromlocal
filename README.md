@@ -1,4 +1,8 @@
 # Example heading
 
 
-this is some sample text.
+This is some sample text.
+
+## Subheading
+
+This is a second paragraph added via powershell & notepad.
